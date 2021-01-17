@@ -1,7 +1,12 @@
 # Digital-Media-Store-Analysis-with-SQL
 This is an analysis of a digital media store's data using SQL.
 
+
 ## Data
+
+  ![Image](https://github.com/BBimie/Digital-Media-Store-Analysis-with-SQL/blob/main/chinook_schema.png)
+
+
 The Chinook data model represents a digital media store, and it contains 11 tables;
 - album	
 - artist
